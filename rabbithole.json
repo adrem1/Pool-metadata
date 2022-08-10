@@ -3,6 +3,5 @@
 "description": "Follow the White Rabbit!",
 "ticker": "RABIT",
 "homepage": "https://rabbitholepools.io",
-"extended": "https://raw.githubusercontent.com/adrem1/Pool-metadata/master/rabbithole_extended.json", 
-"verification": "2b8615a469c8e8546e"
+"extended": "https://raw.githubusercontent.com/adrem1/Pool-metadata/master/rabbithole_extended.json"
 }
