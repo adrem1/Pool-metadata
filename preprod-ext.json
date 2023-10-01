@@ -1,0 +1,28 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/adrem1/Pool-metadata/master/Rabbithole_black_PFP.PNG",
+        "url_png_logo": "https://raw.githubusercontent.com/adrem1/Pool-metadata/master/Rabbithole_black_PFP.PNG",
+        "location": "World",
+        "social": {
+            "twitter_handle": "rabbitholepools",
+            "telegram_handle": "Rabbitholepools",
+            "youtube_handle": "channel/UC1_T_adN8v-PDqaiJ0dYXLg",
+            "github_handle": "adrem1"
+        },
+        "company": {
+            "name": "Rabbitholepools",
+            "city": "Townsville",
+            "country": "Australia",
+            "vat_id": "ABN37447403966"
+        },
+        "about": {
+            "company": "We are an Australian Cardano Stake Pool, committed to security, decentralisation and always running one pool only."
+        },
+    "my-pool-ids": {
+        "0": "pool1vhdl0z496gxlkfpdzxhk80t4363puea6awp6hd0w0qwnw75auae"
+    },
+    "when-satured-then-recommend": {
+        "0": "pool1ayc7a29ray6yv4hn7ge72hpjafg9vvpmtscnq9v8r0zh7azas9c"
+    }
+    }
+}
