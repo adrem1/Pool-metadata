@@ -19,10 +19,10 @@
             "company": "We are an Australian Cardano Stake Pool, committed to security, decentralisation and always running one pool only."
         },
     "my-pool-ids": {
-        "0": "9fa14b049b735e287da702a2b0a7c2a6612e81db9cc4284339a6a2f1"
+        "0": "pool1vhdl0z496gxlkfpdzxhk80t4363puea6awp6hd0w0qwnw75auae"
     },
     "when-satured-then-recommend": {
-        "0": "c94e6fe1123bf111b77b57994bcd836af8ba2b3aa72cfcefbec2d3d4"
+        "0": "pool1ayc7a29ray6yv4hn7ge72hpjafg9vvpmtscnq9v8r0zh7azas9c"
     }
     }
 }
