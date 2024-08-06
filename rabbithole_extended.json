@@ -10,13 +10,13 @@
             "github_handle": "adrem1"
         },
         "company": {
-            "name": "Rabbitholepools",
-            "city": "Townsville",
+            "name": "Rabbithole IT Services Pty Ltd",
+            "city": "Hermit Park 4812 QLD",
             "country": "Australia",
-            "vat_id": "ABN37447403966"
+            "vat_id": "ACN677315310"
         },
         "about": {
-            "company": "We are an Australian Cardano Stake Pool, committed to security, decentralisation and always running one pool only. Our fees are 1% now and going forward, and our focus for community outreach is centred on local recycling and clean transport projects."
+            "company": "RABIT is a Single Independent Cardano Stake Pool, committed to decentralisation and a better Planet for everyone. Our fees are as low as network parameters allow. We run Testnet pools and Mithril signers, produce open source documentation and donate 20% of our income to Sea Shepherd Australia."
         },
     "my-pool-ids": {
         "0": "9fa14b049b735e287da702a2b0a7c2a6612e81db9cc4284339a6a2f1"
