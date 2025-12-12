@@ -1,0 +1,27 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/adrem1/Pool-metadata/master/Rabbithole_black_PFP.PNG",
+        "url_png_logo": "https://raw.githubusercontent.com/adrem1/Pool-metadata/master/Rabbithole_black_PFP.PNG",
+        "location": "Cardano",
+        "social": {
+            "twitter_handle": "rabbitholepools",
+            "telegram_handle": "RABITcardano",
+            "github_handle": "adrem1"
+        },
+        "company": {
+            "name": "Rabbithole IT Services Pty Ltd",
+            "city": "Hermit Park 4812 QLD",
+            "country": "Australia",
+            "vat_id": "ACN677315310"
+        },
+        "about": {
+            "company": "RABIT is a Single Independent Cardano Stake Pool, committed to decentralisation and a better Planet for everyone. RABIT runs on energy-efficient ARM cloud servers, hydro-powered in EMAS-certified datacenters. RABIT runs Testnet pools, Mithril signers, and donates 20% of income to Sea Shepherd Australia."
+        },
+    "my-pool-ids": {
+        "0": "9fa14b049b735e287da702a2b0a7c2a6612e81db9cc4284339a6a2f1"
+    },
+    "when-satured-then-recommend": {
+        "0": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae"
+    }
+    }
+}
