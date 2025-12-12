@@ -3,5 +3,5 @@
 "description": "Fiercely Independent, Hydro Powered Cardano Single Pool. Follow the White Rabbit!",
 "ticker": "RABIT",
 "homepage": "https://rabitlabs.io",
-"extended": "https://raw.githubusercontent.com/adrem1/Pool-metadata/master/rabitlabs_extended.json"
+"extended": "https://raw.githubusercontent.com/adrem1/Pool-metadata/refs/heads/master/rabitlabs_extended.json"
 }
